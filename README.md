@@ -1,6 +1,6 @@
 <div align="center">
 
-# Image Blur Detection (Predict if an image is blur or clear)
+# Image Blur Detection
 
 </div>
 
