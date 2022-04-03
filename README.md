@@ -9,7 +9,9 @@
 This project is modelled using the Laplacian varaince and Laplacian maximum of an image and used to predict if the image is blurred or not. The image with high variance and high maximum are expected to have sharp edges i.e.it's a clear image, whereas the image with less variance and less maximum are expected to be a blur image.
 
 <b>Classifier Used</b>:
+
 K - Nearest Neighbour - 89.2 % Accuracy
+
 Support Vector Machines - 84.59 % Accuracy
 
 ## Dependencies and libraries required
